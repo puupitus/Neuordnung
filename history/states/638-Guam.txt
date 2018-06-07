@@ -6,7 +6,7 @@ state=
 	manpower=75153
 	history=
 	{
-		owner = BRI
+		owner = USY
 		buildings = {
 			infrastructure = 5
 			12140 = {

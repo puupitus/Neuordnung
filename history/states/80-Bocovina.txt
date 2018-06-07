@@ -4,10 +4,10 @@ state={
 	manpower = 474600
 
 	state_category = rural
-	
+
 	history=
 	{
-		owner = POL
+		owner = AUS
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1

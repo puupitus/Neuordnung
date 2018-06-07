@@ -5,7 +5,7 @@ state={
 
 	state_category = enclave
 	history={
-		owner = FUN
+		owner = BRI
 		buildings = {
 			infrastructure = 3
 			4989 = {

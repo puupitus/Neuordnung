@@ -9,7 +9,7 @@ state={
 
 
 	history={
-		owner = USY
+		owner = USA
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1

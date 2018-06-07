@@ -13,7 +13,7 @@ state={
 	state_category = city
 
 	history={
-		owner = BUK
+		owner = RUS
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3

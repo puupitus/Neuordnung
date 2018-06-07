@@ -4,9 +4,9 @@ state={
 	manpower = 212012
 
 	state_category = small_island
-	
+
 	history={
-		owner = GER
+		owner = POR
 		victory_points = {
 			1751 3
 		}
