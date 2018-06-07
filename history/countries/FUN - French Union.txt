@@ -1,6 +1,6 @@
-﻿capital = 12
+﻿capital = 558
 
-oob = "BAL_1936"
+oob = "VEN_1936"
 
 ########## PUPPETS #################
 
@@ -37,20 +37,20 @@ set_politics = {
 		parties = {
 
 
-			syndicalism = {
-				popularity = 7
+syndicalism = {
+				popularity = 25
 			}
 
 			radicalism = {
-				popularity = 23
+				popularity = 25
 			}
 
 			conservatism = {
-				popularity = 42
+				popularity = 25
 			}
 
 			nationalism = {
-				popularity = 28
+				popularity = 25
 			}
 
 		}
@@ -64,29 +64,29 @@ set_politics = {
 
 
 create_country_leader = {
-  name = "Pēteris Stučka"
-	picture = "peteris_stucka.dds"
+  name = ""
+	picture = ""
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Pauls Kalniņš"
-	picture = "pauls_kalnins.dds"
+	name = ""
+	picture = ""
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Adolf Friedrich of Mecklenburg"
-	picture = "adolf_friedrich.dds"
+	name = ""
+	picture = ""
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Gustavs Celmiņš"
-	picture = "gustavs_celmins.dds"
+	name = ""
+	picture = ""
 	ideology = nationalist
 	traits = { ps_default }
 }

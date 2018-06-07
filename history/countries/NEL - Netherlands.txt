@@ -1,7 +1,6 @@
 ﻿capital = 7
 
 oob = "NEL_1936"
-set_cosmetic_tag = NEL_schutzgebiet
 ########## PUPPETS #################
 
 
@@ -35,7 +34,7 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 
 syndicalism = {
 				popularity = 25
@@ -61,7 +60,7 @@ syndicalism = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 
 create_country_leader = {
   name = ""

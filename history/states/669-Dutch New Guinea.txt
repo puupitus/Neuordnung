@@ -6,7 +6,7 @@ state={
 	state_category = pastoral
 
 	history= {
-		owner = EIN
+		owner = NGA
 		add_core_of = EIN
 		victory_points = {
 			12371 1 

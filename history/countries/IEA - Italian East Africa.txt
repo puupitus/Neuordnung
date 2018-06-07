@@ -1,6 +1,6 @@
-﻿capital = 558
+﻿capital = 291
 
-oob = "VEN_1936"
+oob = "IEA_1936"
 
 ########## PUPPETS #################
 
@@ -35,7 +35,7 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 
 syndicalism = {
 				popularity = 25
@@ -61,7 +61,7 @@ syndicalism = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 
 create_country_leader = {
   name = ""

@@ -7,7 +7,7 @@ state={
 
 	history=
 	{
-		owner = WAF
+		owner = FUN
 		victory_points = {
 			2038 1
 		}

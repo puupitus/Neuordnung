@@ -6,7 +6,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = SET
+		owner = ITA
 		victory_points = {
 			3780 15
 		}

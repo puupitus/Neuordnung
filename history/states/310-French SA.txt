@@ -10,7 +10,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = CUB
+		owner = CAR
 		buildings = {
 			infrastructure = 2
 			12885 = {

@@ -1,6 +1,6 @@
-﻿capital = 50
+﻿capital = 716
 
-oob = "WUR_1936"
+oob = "MCA_1936"
 
 ########## PUPPETS #################
 
@@ -36,7 +36,7 @@ set_politics = {
 
 		parties = {
 
-      syndicalism = {
+syndicalism = {
 				popularity = 25
 			}
 
@@ -53,13 +53,14 @@ set_politics = {
 			}
 
 		}
-	ruling_party = conservatism
+	ruling_party = nationalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 ############ COUNTRY LEADERS #############
+
 
 create_country_leader = {
   name = ""

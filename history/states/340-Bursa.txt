@@ -10,7 +10,7 @@ state={
 	state_category = town
 
 	history={
-		owner = GRE
+		owner = OTT
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

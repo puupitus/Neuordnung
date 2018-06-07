@@ -1,7 +1,7 @@
 ﻿capital = 111
 
 oob = "FIN_1936"
-set_cosmetic_tag = FIN_schutzgebiet
+
 ########## PUPPETS #################
 
 
@@ -35,7 +35,7 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 syndicalism = {
 				popularity = 25
 			}
@@ -60,7 +60,7 @@ syndicalism = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
   name = ""
 	picture = ""

@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = EIN
+		owner = NGA
 		add_core_of = EIN
 		victory_points = {
 			7381 5

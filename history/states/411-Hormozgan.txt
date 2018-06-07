@@ -10,7 +10,7 @@ state={
 	
 
 	history={
-		owner = IRA
+		owner = PER
 		buildings = {
 			infrastructure = 2
 		}

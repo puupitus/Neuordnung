@@ -1,6 +1,6 @@
-﻿capital = 716
+﻿capital = 737
 
-oob = "MCA_1936"
+oob = "NGA_1936"
 
 ########## PUPPETS #################
 
@@ -35,7 +35,7 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 syndicalism = {
 				popularity = 25
 			}
@@ -53,14 +53,14 @@ syndicalism = {
 			}
 
 		}
-	ruling_party = nationalism
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 
 create_country_leader = {
   name = ""

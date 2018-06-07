@@ -1,6 +1,6 @@
-﻿capital = 28
+﻿capital = 291
 
-oob = "ELO_1936"
+oob = "HAS_1936"
 
 ########## PUPPETS #################
 
@@ -36,6 +36,7 @@ set_politics = {
 
 		parties = {
 
+
 syndicalism = {
 				popularity = 25
 			}
@@ -60,6 +61,7 @@ syndicalism = {
 }
 
 ############ COUNTRY LEADERS #############
+
 
 create_country_leader = {
   name = ""

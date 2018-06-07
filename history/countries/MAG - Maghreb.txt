@@ -1,7 +1,6 @@
 ﻿capital = 458
 
 oob = "MAG_1936"
-set_cosmetic_tag = MAG_schutzgebiet
 ########## PUPPETS #################
 
 
@@ -35,7 +34,7 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 syndicalism = {
 				popularity = 25
 			}
@@ -60,7 +59,7 @@ syndicalism = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
   name = ""
 	picture = ""

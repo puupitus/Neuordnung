@@ -7,7 +7,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = EIN
+		owner = NGA
 		buildings = {
 			infrastructure = 3
 			12190 ={

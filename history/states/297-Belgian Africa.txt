@@ -8,7 +8,7 @@ state=
 
 	history=
 	{
-		owner = CAF
+		owner = DKG
 		buildings = {
 			infrastructure = 2
 			1903 = {

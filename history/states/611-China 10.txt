@@ -7,7 +7,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = MCA
+		owner = CHI
 
 		add_core_of = CHI
 

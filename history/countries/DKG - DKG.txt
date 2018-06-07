@@ -1,6 +1,6 @@
-﻿capital = 117
+﻿capital = 546
 
-oob = "MEZ_1936"
+oob = "DKG_1936"
 
 ########## PUPPETS #################
 
@@ -35,58 +35,56 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
 
 syndicalism = {
-				popularity = 25
+				popularity = 0
 			}
 
 			radicalism = {
-				popularity = 25
+				popularity = 0
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 100
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 0
 			}
 
 		}
-	ruling_party = syndicalism
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 ############ COUNTRY LEADERS #############
- 
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Paul von Lettow-Vorbeck"
+	picture = "paul_von_lettow_vorbeck.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Paul von Lettow-Vorbeck"
+	picture = "paul_von_lettow_vorbeck.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Paul von Lettow-Vorbeck"
+	picture = "paul_von_lettow_vorbeck.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Paul von Lettow-Vorbeck"
+	picture = "paul_von_lettow_vorbeck.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

@@ -1,8 +1,6 @@
 ﻿capital = 91
 
 oob = "POL_1936"
-create_faction = "LSI"
-add_to_faction = BOH
 ########## PUPPETS #################
 
 

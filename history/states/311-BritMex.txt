@@ -7,7 +7,7 @@ state=
 	state_category = enclave
 	history=
 	{
-		owner = CUB
+		owner = CAR
 		buildings = {
 			infrastructure = 4
 			2077 = {
