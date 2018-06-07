@@ -1,0 +1,37 @@
+bookmarks = {
+	bookmark = {
+		name = "PS_NAME"
+		desc = "PS_DESC"
+		date = 1929.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+
+		"GER"={
+			history = "GER_PS_DESC"
+			ideology = conservatism
+			ideas = {	}
+			focuses = { }
+		}
+
+	  "---"={
+			history = "OTHER_PS_DESC"
+		}
+		"FIN"={
+			minor = yes
+			history = "FIN_PS_DESC"
+			ideology = conservatism
+			ideas = {	}
+			focuses = { }
+		}
+
+
+
+
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
