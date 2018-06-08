@@ -4,7 +4,6 @@ ALB = { color = rgb { 153 0 0 } }
 ARG = { color = rgb { 116 172 223 } }
 AST = { color = rgb { 57 143 97 } }
 AUS	= { color = rgb { 194 198 215 } }
-BEA = { color = rgb { 52 127 188 } }
 BEL = { color = rgb { 193 171 8 } }
 BOL = { color = rgb { 76 145 63 } }
 BRA = { color = rgb { 63 119 86 } }
@@ -15,14 +14,12 @@ CAN = { color = rgb { 119 48 39 } }
 CEA = { color = rgb { 137 197 227 } }
 CHI = { color = rgb { 0 71 160 } }
 CHL = { color = rgb { 206 206 206 } }
-COG = { color = rgb { 191 180 107 } }
 COL = { color = rgb { 255 255 0 } }
 DEN = { color = rgb { 220 0 0 } }
 DKG = { color = rgb { 96 96 96 } }
 ECU = { color = rgb { 46 101 160 } }
-EGY = { color = rgb { 35 159 64 } }
+EGY = { color = rgb { 191 180 107 } }
 EST = { color = rgb { 0 115 207 } }
-ETH = { color = rgb { 171 226 154 } }
 FAU = { color = rgb { 210 16 52 } }
 FEN = { color = rgb { 255 197 0 } }
 FIN = { color = rgb { 194 198 215 } }

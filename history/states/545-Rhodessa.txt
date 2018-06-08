@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = BRI
+		owner = DKG
 		buildings = {
 			infrastructure = 3
 
