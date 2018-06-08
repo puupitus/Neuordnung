@@ -10,7 +10,7 @@ state={
 
 
 	history={
-		owner = CAR
+		owner = CEA
 		buildings = {
 			infrastructure = 3
 			3284 = {

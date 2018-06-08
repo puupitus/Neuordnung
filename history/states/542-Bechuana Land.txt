@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = SAF
+		owner = BRI
 		buildings = {
 			infrastructure = 1
 		}

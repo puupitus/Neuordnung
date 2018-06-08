@@ -1,25 +1,25 @@
 bookmarks = {
 	bookmark = {
-		name = "PS_NAME"
-		desc = "PS_DESC"
+		name = "NEU_NAME"
+		desc = "NEU_DESC"
 		date = 1929.1.1.12
 		picture = "GFX_select_date_1936"
 		default_country = "GER"
 		default = yes
 
 		"GER"={
-			history = "GER_PS_DESC"
+			history = "GER_NEU_DESC"
 			ideology = conservatism
 			ideas = {	}
 			focuses = { }
 		}
 
 	  "---"={
-			history = "OTHER_PS_DESC"
+			history = "OTHER_NEU_DESC"
 		}
 		"FIN"={
 			minor = yes
-			history = "FIN_PS_DESC"
+			history = "FIN_NEU_DESC"
 			ideology = conservatism
 			ideas = {	}
 			focuses = { }
