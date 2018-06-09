@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = USA
+		owner = COA
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3

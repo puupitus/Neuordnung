@@ -13,7 +13,7 @@ state={
 
 
 	history={
-		owner = USA
+		owner = COA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2

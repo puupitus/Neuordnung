@@ -128,28 +128,28 @@ create_country_leader = {
   name = "Walter Citrine"
 	picture = "walter_citrine.dds"
 	ideology = syndicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Ramsay MacDonald"
 	picture = "ramsay_macdonald.dds"
 	ideology = radicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Stanley Baldwin"
 	picture = "stanley_baldwin.dds"
 	ideology = conservatistic
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Arnold Leese"
 	picture = "arnold_leese.dds"
 	ideology = nationalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 ########## GENERALS ###########

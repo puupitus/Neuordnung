@@ -1,4 +1,4 @@
-﻿capital = 291
+﻿capital = 679
 
 oob = "HAS_1936"
 
@@ -67,28 +67,28 @@ create_country_leader = {
   name = ""
 	picture = ""
 	ideology = syndicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = radicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = conservatistic
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = nationalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 ########## GENERALS ###########

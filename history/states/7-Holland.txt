@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = NEL
+		owner = LUX
 		add_core_of = NEL
 		victory_points = { 391 40 }
 		victory_points = { 3211 10 }

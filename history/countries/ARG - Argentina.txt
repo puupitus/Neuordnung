@@ -67,28 +67,28 @@ create_country_leader = {
   name = "Fanny Edelman"
 	picture = "fanny_edelman.dds"
 	ideology = syndicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Hipólito Yrigoyen"
 	picture = "hipolito_yrigoyen.dds"
 	ideology = radicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Agustín Pedro Justo"
 	picture = "agustin_pedro_justo.dds"
 	ideology = conservatistic
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "José Félix Uriburu"
 	picture = "jose_felix_uriburu.dds"
 	ideology = nationalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 ########## GENERALS ###########

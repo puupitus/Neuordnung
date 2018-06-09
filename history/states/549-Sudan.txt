@@ -8,7 +8,7 @@ state={
 
 
 	history={
-		owner = EGY
+		owner = BRI
 		add_core_of = UAR
 		buildings = {
 			infrastructure = 3

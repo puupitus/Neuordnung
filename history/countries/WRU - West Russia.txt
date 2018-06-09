@@ -1,6 +1,6 @@
-﻿capital = 671
+﻿capital = 195
 
-oob = "ICH_1936"
+oob = "WRU_1936"
 
 ########## PUPPETS #################
 
@@ -35,7 +35,7 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 			syndicalism = {
 				popularity = 25
 			}
@@ -53,40 +53,40 @@ set_politics = {
 			}
 
 		}
-	ruling_party = conservatism
+	ruling_party = nationalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
   name = ""
 	picture = ""
 	ideology = syndicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = radicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = conservatistic
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = nationalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 ########## GENERALS ###########

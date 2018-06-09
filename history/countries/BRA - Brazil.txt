@@ -65,28 +65,28 @@ create_country_leader = {
   name = "Miguel Reale"
 	picture = "miguel_reale.dds"
 	ideology = syndicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Getúlio Vargas"
 	picture = "getulio_vargas.dds"
 	ideology = radicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Washington Luís"
 	picture = "washington_luis.dds"
 	ideology = conservatistic
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Plínio Salgado"
 	picture = "plinio_salgado.dds"
 	ideology = nationalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 ########## GENERALS ###########

@@ -65,28 +65,28 @@ create_country_leader = {
   name = "Paul von Lettow-Vorbeck"
 	picture = "paul_von_lettow_vorbeck.dds"
 	ideology = syndicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Paul von Lettow-Vorbeck"
 	picture = "paul_von_lettow_vorbeck.dds"
 	ideology = radicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Paul von Lettow-Vorbeck"
 	picture = "paul_von_lettow_vorbeck.dds"
 	ideology = conservatistic
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = "Paul von Lettow-Vorbeck"
 	picture = "paul_von_lettow_vorbeck.dds"
 	ideology = nationalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 ########## GENERALS ###########

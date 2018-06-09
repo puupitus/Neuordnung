@@ -6,7 +6,7 @@ state={
 
 	state_category = pastoral
 	history={
-		owner = PRI
+		owner = RUS
 		add_core_of = SOV
 		buildings = {
 			infrastructure = 3

@@ -1,4 +1,4 @@
-﻿capital = 195
+﻿capital = 219
 
 oob = "RUS_1936"
 
@@ -54,7 +54,7 @@ syndicalism = {
 			}
 
 		}
-	ruling_party = radicalism
+	ruling_party = syndicalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -67,28 +67,28 @@ create_country_leader = {
   name = ""
 	picture = ""
 	ideology = syndicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = radicalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = conservatistic
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = nationalist
-	traits = { ps_default }
+	traits = { neu_default }
 }
 
 ########## GENERALS ###########
