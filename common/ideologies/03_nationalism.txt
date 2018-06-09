@@ -1,10 +1,10 @@
 ideologies = {
 
-	nationalism = {
+	fascism = {
 
 		types = {
 
-			nationalist = {
+			fascist = {
 			}
 
 		}

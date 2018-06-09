@@ -40,15 +40,13 @@ set_politics = {
 				popularity = 28
 			}
 
-			radicalism = {
-				popularity = 12
-			}
+	
 
 			conservatism = {
-				popularity = 36
+				popularity = 48
 			}
 
-			nationalism = {
+			fascism = {
 				popularity = 24
 			}
 
@@ -69,13 +67,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Nikola Mushanov"
-	picture = "nikola_mushanov.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
 	name = "Kimon Georgiev"
 	picture = "kimon_georgiev.dds"
 	ideology = conservatistic
@@ -85,7 +76,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Hristo Lukov"
 	picture = "hristo_lukov.dds"
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

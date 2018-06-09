@@ -1148,8 +1148,8 @@ spriteTypes = {
 	}
 	
 	SpriteType = { 
-		name = "GFX_focus_chi_cooperation_with_the_nationalists"
-		texturefile = "gfx/interface/goals/focus_chi_cooperation_with_the_nationalists.dds"
+		name = "GFX_focus_chi_cooperation_with_the_fascists"
+		texturefile = "gfx/interface/goals/focus_chi_cooperation_with_the_fascists.dds"
 	}
 	
 	SpriteType = { 

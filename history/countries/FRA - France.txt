@@ -2,6 +2,7 @@
 
 oob = "FRA_1936"
 
+
 ########## PUPPETS #################
 
 
@@ -35,43 +36,32 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
-			syndicalism = {
-				popularity = 25
-			}
 
-			radicalism = {
-				popularity = 25
+			syndicalism = {
+				popularity = 30
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 40
 			}
 
-			nationalism = {
-				popularity = 25
+			fascism = {
+				popularity = 30
 			}
 
 		}
-	ruling_party = syndicalism
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
   name = ""
 	picture = ""
 	ideology = syndicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
-	name = ""
-	picture = ""
-	ideology = radicalist
 	traits = { neu_default }
 }
 
@@ -85,7 +75,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

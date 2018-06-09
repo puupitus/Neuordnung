@@ -40,15 +40,13 @@ set_politics = {
 				popularity = 35
 			}
 
-			radicalism = {
-				popularity = 0
-			}
+		
 
 			conservatism = {
 				popularity = 23
 			}
 
-			nationalism = {
+			fascism = {
 				popularity = 42
 			}
 
@@ -69,12 +67,6 @@ create_country_leader = {
 	traits = { neu_default }
 }
 
-create_country_leader = {
-	name = "Shefqet Vërlaci"
-	picture = "shefqet_verlaci.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
 
 create_country_leader = {
 	name = "Ahmet Zogu"
@@ -86,7 +78,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Tefik Mborja"
 	picture = "tefik_mborja.dds"
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

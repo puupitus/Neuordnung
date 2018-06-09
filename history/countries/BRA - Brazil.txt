@@ -40,16 +40,13 @@ set_politics = {
 				popularity = 22
 			}
 
-			radicalism = {
-				popularity = 28
-			}
 
 			conservatism = {
-				popularity = 19
+				popularity = 38
 			}
 
-			nationalism = {
-				popularity = 31
+			fascism = {
+				popularity = 50
 			}
 
 		}
@@ -69,13 +66,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Getúlio Vargas"
-	picture = "getulio_vargas.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
 	name = "Washington Luís"
 	picture = "washington_luis.dds"
 	ideology = conservatistic
@@ -85,7 +75,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Plínio Salgado"
 	picture = "plinio_salgado.dds"
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

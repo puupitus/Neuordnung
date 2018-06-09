@@ -40,20 +40,17 @@ set_politics = {
 				popularity = 51
 			}
 
-			radicalism = {
-				popularity = 32
-			}
 
 			conservatism = {
-				popularity = 12
+				popularity = 34
 			}
 
-			nationalism = {
-				popularity = 5
+			fascism = {
+				popularity = 15
 			}
 
 		}
-	ruling_party = syndicalism
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -69,13 +66,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "José Luis Tejada Sorzano"
-	picture = "jose_luis_tejada_sorzano.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
 	name = "Hernando Siles Reyes"
 	picture = "hernando_siles_reyes.dds"
 	ideology = conservatistic
@@ -85,7 +75,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Germán Busch"
 	picture = "german_busch.dds"
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

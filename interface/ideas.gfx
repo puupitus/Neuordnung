@@ -227,8 +227,8 @@ spriteTypes = {
 	}		
 	
 	spriteType = {
-		name = "GFX_idea_FRA_scw_intervention_nationalists_focus"
-		texturefile = "gfx/interface/ideas/FRA_scw_intervention_nationalists_focus.dds"
+		name = "GFX_idea_FRA_scw_intervention_fascists_focus"
+		texturefile = "gfx/interface/ideas/FRA_scw_intervention_fascists_focus.dds"
 	}	
 	
 	spriteType = {

@@ -37,23 +37,19 @@ set_politics = {
 		parties = {
 
 			syndicalism = {
-				popularity = 25
-			}
-
-			radicalism = {
-				popularity = 25
+				popularity = 30
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 40
 			}
 
-			nationalism = {
-				popularity = 25
+			fascism = {
+				popularity = 30
 			}
 
 		}
-	ruling_party = nationalism
+	ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -71,13 +67,6 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = radicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
-	name = ""
-	picture = ""
 	ideology = conservatistic
 	traits = { neu_default }
 }
@@ -85,7 +74,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

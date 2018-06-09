@@ -2,6 +2,7 @@
 
 oob = "DKG_1936"
 
+
 ########## PUPPETS #################
 
 
@@ -36,24 +37,20 @@ set_politics = {
 
 		parties = {
 
-syndicalism = {
-				popularity = 0
-			}
-
-			radicalism = {
-				popularity = 0
+			syndicalism = {
+				popularity = 30
 			}
 
 			conservatism = {
-				popularity = 100
+				popularity = 40
 			}
 
-			nationalism = {
-				popularity = 0
+			fascism = {
+				popularity = 30
 			}
 
 		}
-	ruling_party = conservatism
+	ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -62,30 +59,23 @@ syndicalism = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = "Paul von Lettow-Vorbeck"
-	picture = "paul_von_lettow_vorbeck.dds"
+  name = ""
+	picture = ""
 	ideology = syndicalist
 	traits = { neu_default }
 }
 
 create_country_leader = {
-	name = "Paul von Lettow-Vorbeck"
-	picture = "paul_von_lettow_vorbeck.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
-	name = "Paul von Lettow-Vorbeck"
-	picture = "paul_von_lettow_vorbeck.dds"
+	name = ""
+	picture = ""
 	ideology = conservatistic
 	traits = { neu_default }
 }
 
 create_country_leader = {
-	name = "Paul von Lettow-Vorbeck"
-	picture = "paul_von_lettow_vorbeck.dds"
-	ideology = nationalist
+	name = ""
+	picture = ""
+	ideology = fascist
 	traits = { neu_default }
 }
 

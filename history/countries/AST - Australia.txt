@@ -38,19 +38,16 @@ set_politics = {
 
 
 			syndicalism = {
-				popularity = 14
+				popularity = 24
 			}
 
-			radicalism = {
-				popularity = 31
-			}
-
+		
 			conservatism = {
-				popularity = 38
+				popularity = 49
 			}
 
-			nationalism = {
-				popularity = 17
+			fascism = {
+				popularity = 27
 			}
 
 		}
@@ -70,12 +67,7 @@ create_country_leader = {
 	traits = { neu_default }
 }
 
-create_country_leader = {
-	name = "James Scullin"
-	picture = "james_scullin.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
+
 
 create_country_leader = {
 	name = "Stanley Bruce"
@@ -87,7 +79,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Eric Campbell"
 	picture = "eric_campbell.dds"
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

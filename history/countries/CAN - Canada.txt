@@ -40,16 +40,12 @@ set_politics = {
 				popularity = 26
 			}
 
-			radicalism = {
-				popularity = 14
-			}
-
 			conservatism = {
-				popularity = 37
+				popularity = 47
 			}
 
-			nationalism = {
-				popularity = 23
+			fascism = {
+				popularity = 27
 			}
 
 		}
@@ -69,13 +65,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "William Lyon Mackenzie King"
-	picture = "william_lyon_mackenzie_king.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
 	name = "Robert Borden"
 	picture = "robert_borden.dds"
 	ideology = conservatistic
@@ -85,7 +74,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Adrien Arcand"
 	picture = "adrien_arcand.dds"
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

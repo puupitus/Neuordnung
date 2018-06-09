@@ -3,71 +3,7 @@
 oob = "BRI_1936"
 set_major = yes
 ########## PUPPETS #################
-set_autonomy = {
-	target = AST
-	autonomous_state = autonomy_dominion
-}
-AST = {
-set_politics = {
 
-		parties = {
-
-
-			syndicalism = {
-				popularity = 14
-			}
-
-			radicalism = {
-				popularity = 31
-			}
-
-			conservatism = {
-				popularity = 38
-			}
-
-			nationalism = {
-				popularity = 17
-			}
-
-		}
-	ruling_party = conservatism
-	last_election = "1936.1.1"
-	election_frequency = 48
-	elections_allowed = no
-}
-}
-set_autonomy = {
-	target = BUR
-	autonomous_state = autonomy_colony
-}
-BUR = {
-set_politics = {
-
-		parties = {
-
-			syndicalism = {
-				popularity = 32
-			}
-
-			radicalism = {
-				popularity = 38
-			}
-
-			conservatism = {
-				popularity = 14
-			}
-
-			nationalism = {
-				popularity = 16
-			}
-
-		}
-	ruling_party = conservatism
-	last_election = "1936.1.1"
-	election_frequency = 48
-	elections_allowed = no
-}
-}
 ########## STARTING TECH ###########
 
 set_technology = {
@@ -103,20 +39,16 @@ set_politics = {
 				popularity = 26
 			}
 
-			radicalism = {
-				popularity = 7
-			}
-
 			conservatism = {
 				popularity = 31
 			}
 
-			nationalism = {
-				popularity = 36
+			fascism = {
+				popularity = 43
 			}
 
 		}
-	ruling_party = conservatism
+	ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -132,13 +64,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ramsay MacDonald"
-	picture = "ramsay_macdonald.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
 	name = "Stanley Baldwin"
 	picture = "stanley_baldwin.dds"
 	ideology = conservatistic
@@ -148,7 +73,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Arnold Leese"
 	picture = "arnold_leese.dds"
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

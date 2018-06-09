@@ -36,19 +36,16 @@ set_politics = {
 		parties = {
 
 			syndicalism = {
-				popularity = 5
+				popularity = 15
 			}
 
-			radicalism = {
-				popularity = 20
-			}
 
 			conservatism = {
-				popularity = 27
+				popularity = 52
 			}
 
-			nationalism = {
-				popularity = 48
+			fascism = {
+				popularity = 38
 			}
 
 		}
@@ -70,13 +67,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Karl Renner"
-	picture = "karl_renner.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
 	name = "Otto Ender"
 	picture = "otto_ender.dds"
 	ideology = conservatistic
@@ -86,7 +76,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Franz Ferdinand I"
 	picture = "franz_ferdinand_i.dds"
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 

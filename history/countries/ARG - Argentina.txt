@@ -41,20 +41,16 @@ set_politics = {
 				popularity = 23
 			}
 
-			radicalism = {
-				popularity = 30
-			}
-
 			conservatism = {
-				popularity = 20
+				popularity = 40
 			}
 
-			nationalism = {
-				popularity = 27
+			fascism = {
+				popularity = 37
 			}
 
 		}
-	ruling_party = radicalism
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -71,13 +67,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Hipólito Yrigoyen"
-	picture = "hipolito_yrigoyen.dds"
-	ideology = radicalist
-	traits = { neu_default }
-}
-
-create_country_leader = {
 	name = "Agustín Pedro Justo"
 	picture = "agustin_pedro_justo.dds"
 	ideology = conservatistic
@@ -87,7 +76,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "José Félix Uriburu"
 	picture = "jose_felix_uriburu.dds"
-	ideology = nationalist
+	ideology = fascist
 	traits = { neu_default }
 }
 
