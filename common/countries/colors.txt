@@ -57,5 +57,4 @@ URG = { color = rgb { 97 119 168 } }
 USA = { color = rgb { 36 132 247 } }
 USY = { color = rgb { 191 10 48 } }
 VEN = { color = rgb { 255 50 50 } }
-WGR = { color = rgb { 255 206 0 } }
 WRU = { color = rgb { 194 198 215 } }
