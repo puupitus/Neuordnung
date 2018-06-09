@@ -1,7 +1,7 @@
 ﻿capital = 195
 
 oob = "WRU_1936"
-
+set_cosmetic_tag = WRU_oberost
 ########## PUPPETS #################
 
 

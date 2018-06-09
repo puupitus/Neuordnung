@@ -2,7 +2,6 @@
 
 oob = "AUS_1936"
 set_major = yes
-set_cosmetic_tag = AUS_aushun
 ########## PUPPETS #################
 
 
