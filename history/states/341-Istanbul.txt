@@ -11,7 +11,7 @@ state= {
 
 	history= {
 		add_core_of = GRE
-		owner = OTT
+		owner = GRE
 		victory_points = {
 			9833 20
 		}

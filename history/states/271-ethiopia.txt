@@ -11,7 +11,7 @@ state=
 
 	history=
 	{
-		owner = ITA
+		owner = AOI
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2

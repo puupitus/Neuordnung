@@ -14,7 +14,7 @@ state={
 
 	history=
 	{
-		owner = NGA
+		owner = HOL
 		add_core_of = INS
 		victory_points = {
 			4652 1

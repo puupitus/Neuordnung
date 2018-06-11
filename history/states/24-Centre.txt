@@ -8,7 +8,7 @@ state={
 	state_category = large_town
 
 	history={
-		owner = FRA
+		owner = CAR
 		victory_points = {
 			3671 10
 		}
@@ -21,7 +21,7 @@ state={
 
 		}
 		add_core_of = FRA
-		
+
 	}
 
 	provinces={
