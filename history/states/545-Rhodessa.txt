@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = OST
+		owner = DAF
 		buildings = {
 			infrastructure = 3
 

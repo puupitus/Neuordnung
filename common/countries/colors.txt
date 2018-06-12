@@ -2,7 +2,7 @@
 AFG = { color = rgb { 0 31 0 } }
 ALB = { color = rgb { 153 0 0 } }
 ARG = { color = rgb { 116 172 223 } }
-AST = { color = rgb { 57 143 97 } }
+AST = { color = rgb { 255 127 127 } }
 AUS	= { color = rgb { 194 198 215 } }
 BOL = { color = rgb { 76 145 63 } }
 BRA = { color = rgb { 63 119 86 } }
@@ -19,7 +19,7 @@ ECU = { color = rgb { 46 101 160 } }
 EGY = { color = rgb { 191 180 107 } }
 FAU = { color = rgb { 170 10 10 } }
 FEN = { color = rgb { 255 197 0 } }
-FIN = { color = rgb { 210 16 52 } }
+FIN = { color = rgb { 211 211 211 } }
 FRA	= { color = rgb { 48 73 219 } }
 GER	= { color = rgb { 128 128 128 } }
 GRE = { color = rgb { 93 181 227 } }
@@ -35,7 +35,6 @@ MAL = { color = rgb { 252 209 22 } }
 MEX = { color = rgb { 104 152 83 } }
 NGA = { color = rgb { 168 193 168 } }
 NOR = { color = rgb { 84 96 132 } }
-NZL = { color = rgb { 255 127 127 } }
 OTT = { color = rgb { 189 18 32 } }
 PAR = { color = rgb { 211 95 86 } }
 PER = { color = rgb { 87 165 87 } }
@@ -56,7 +55,7 @@ URG = { color = rgb { 97 119 168 } }
 USA = { color = rgb { 36 132 247 } }
 USY = { color = rgb { 191 10 48 } }
 VEN = { color = rgb { 255 50 50 } }
-WRU = { color = rgb { 224 179 0 } }
+WRU = { color = rgb { 255 206 0 } }
 CAR = { color = rgb { 219 94 94 } }
 BEL = { color = rgb { 193 171 8 } }
 HOL = { color = rgb { 211 131 78 } }
@@ -65,8 +64,7 @@ ASI = { color = rgb { 48 91 45 } }
 AOI = { color = rgb { 80 150 75 } }
 AOP = { color = rgb { 0 158 0 } }
 NIG = { color = rgb { 75 109 137 } }
-WAF = { color = rgb { 211 211 211 } }
 JUD = { color = rgb { 144 206 206 } }
-OST = { color = rgb { 96 96 96 } }
-SWA = { color = rgb { 198 39 39 } }
+DAF = { color = rgb { 96 96 96 } }
 ICH = { color = rgb { 99 117 216 } }
+BAL = { color = rgb { 224 179 0 } }

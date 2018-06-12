@@ -1,4 +1,7 @@
 ﻿l_english:
- WRU_oberost_fascism_ADJ:0 "Russian"
- WRU_oberost_fascism_DEF:0 "The Ober Ost"
- WRU_oberost_fascism:0 "Ober Ost"
+ BAL_oberost_conservatism_ADJ:0 "Baltic"
+ BAL_oberost_conservatism_DEF:0 "The Ober Ost"
+ BAL_oberost_conservatism:0 "Ober Ost"
+ WRU_provisional_conservatism_ADJ:0 "Russian"
+ WRU_provisional_conservatism_DEF:0 "The Provisional Government of West Russia"
+ WRU_provisional_conservatism:0 "Provisional Government of West Russia"
