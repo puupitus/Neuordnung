@@ -1,6 +1,6 @@
 ﻿capital = 448
 
-oob = "ASI_1936"
+oob = "ASI"
 
 ########## PUPPETS #################
 

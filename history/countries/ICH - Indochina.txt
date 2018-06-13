@@ -1,6 +1,6 @@
 ﻿capital = 671
 
-oob = "ICH_1936"
+oob = "ICH"
 
 ########## PUPPETS #################
 

@@ -1,6 +1,6 @@
 ﻿capital = 679
 
-oob = "HAS_1936"
+oob = "HAS"
 
 ########## PUPPETS #################
 

@@ -1,6 +1,6 @@
 ﻿capital = 28
 
-oob = "FAU_1936"
+oob = "FAU"
 
 
 ########## PUPPETS #################

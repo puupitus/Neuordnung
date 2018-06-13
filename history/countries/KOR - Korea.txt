@@ -1,6 +1,6 @@
 ﻿capital = 525
 
-oob = "KOR_1936"
+oob = "KOR"
 set_cosmetic_tag = KOR_japanese
 ########## PUPPETS #################
 

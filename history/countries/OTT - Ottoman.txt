@@ -1,6 +1,6 @@
 ﻿capital = 49
 
-oob = "OTT_1936"
+oob = "OTT"
 
 ########## PUPPETS #################
 

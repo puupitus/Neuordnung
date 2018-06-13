@@ -1,6 +1,6 @@
 ﻿capital = 546
 
-oob = "OST_1936"
+oob = "OST"
 
 ########## PUPPETS #################
 

@@ -1,6 +1,6 @@
 ﻿capital = 312
 
-oob = "CEA_1936"
+oob = "CEA"
 
 ########## PUPPETS #################
 

@@ -1,6 +1,6 @@
 ﻿capital = 737
 
-oob = "NGA_1936"
+oob = "NGA"
 
 ########## PUPPETS #################
 

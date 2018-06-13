@@ -1,6 +1,6 @@
 ﻿capital = 716
 
-oob = "MCA_1936"
+oob = "MCA"
 
 
 ########## PUPPETS #################
