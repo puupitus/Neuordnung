@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = CAR
+		owner = FRA
 
 		buildings = {
 			infrastructure = 6

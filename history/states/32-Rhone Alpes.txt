@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = CAR
+		owner = FRA
 		buildings = {
 			infrastructure = 4
 		}

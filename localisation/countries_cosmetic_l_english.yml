@@ -1,7 +1,4 @@
 ﻿l_english:
- BAL_oberost_conservatism_ADJ:0 "Baltic"
- BAL_oberost_conservatism_DEF:0 "The Ober Ost"
- BAL_oberost_conservatism:0 "Ober Ost"
- WRU_provisional_conservatism_ADJ:0 "Russian"
- WRU_provisional_conservatism_DEF:0 "The Provisional Government of West Russia"
- WRU_provisional_conservatism:0 "Provisional Government of West Russia"
+ KOR_japanese_conservatism_ADJ:0 "Korean"
+ KOR_japanese_conservatism_DEF:0 "The Japanese Korea"
+ KOR_japanese_conservatism:0 "Japanese Korea"

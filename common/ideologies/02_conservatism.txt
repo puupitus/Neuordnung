@@ -17,7 +17,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_5"
 		}
 
-		color = { 0 74 127 }
+		color = { 194 198 215 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
