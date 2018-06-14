@@ -61,8 +61,8 @@ set_politics = {
 
 
 create_country_leader = {
-  name = "Johann Koplenig"
-	picture = "johann_koplenig.dds"
+  name = "Karl Renner"
+	picture = "karl_renner.dds"
 	ideology = syndicalist
 	traits = { neu_default }
 }
